@@ -11,6 +11,7 @@
 1) index1.php
 
 2) index2.php - для теста запросов заполнит базу данных
+
 2.1) 
 SELECT DISTINCT users.id, users.name 
 FROM users 
